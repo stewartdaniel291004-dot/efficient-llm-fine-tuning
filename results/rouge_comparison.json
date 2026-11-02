@@ -1,0 +1,16 @@
+[
+  {
+    "model":"Original base",
+    "rouge1":0.2932644749,
+    "rouge2":0.0796853797,
+    "rougeL":0.2148514079,
+    "rougeLsum":0.2160493185
+  },
+  {
+    "model":"QLoRA fine-tuned",
+    "rouge1":0.4294557842,
+    "rouge2":0.1699465507,
+    "rougeL":0.3275507331,
+    "rougeLsum":0.3290864922
+  }
+]
