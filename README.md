@@ -1,6 +1,6 @@
-# Task 9 — Efficient LLM Fine-Tuning Using QLoRA
+# Efficient LLM Fine-Tuning Using QLoRA
 
-**Elevvo Pathways NLP Internship · Task 9**
+
 
 This project fine-tunes a small instruction model for dialogue summarization on SAMSum using 4-bit QLoRA, then compares the base and adapted models with ROUGE.
 
